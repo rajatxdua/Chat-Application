@@ -1,4 +1,16 @@
-# Real-Time Chat Application
+# Chat Application
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: RAJAT DUA
+
+*INTERN ID*:  CT04DZ228
+
+*DOMAIN*: FULL STACK WEB DEVLOPMENT 
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*:  NEELA SANTHOSH
 
 A modern, real-time chat application built with Socket.IO that enables multiple users to communicate instantly with user identification and online presence features.
 
@@ -247,3 +259,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *Built with passion and modern web technologies. Star ⭐ this repository if you find it helpful!*
+
+# Gallery
+
