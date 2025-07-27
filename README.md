@@ -262,3 +262,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Gallery
 
+https://github.com/rajatxdua/Chat-Application/issues/1
+
+https://github.com/rajatxdua/Chat-Application/issues/2
+
+https://github.com/rajatxdua/Chat-Application/issues/3
+
+https://github.com/rajatxdua/Chat-Application/issues/4
